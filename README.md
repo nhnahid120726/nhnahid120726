@@ -112,23 +112,10 @@ I'm currently studying Computer Technology and continuously improving my program
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=nhnahid120726&show_icons=true&theme=gruvbox_light&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <!-- <img width="49%" src="https://github-readme-stats.vercel.app/api?username=nhnahid120726&show_icons=true&theme=gruvbox_light&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" /> -->
   <img width="49%" src="https://streak-stats.demolab.com/?user=nhnahid120726&theme=gruvbox_light&hide_border=true" alt="GitHub Streak" />
 </p>
 
-<p align="center">
-  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nhnahid120726&theme=gruvbox_light&hide_border=true&layout=compact&include_all_commits=true&count_private=true" alt="Top Languages" />
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=nhnahid120726&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4" alt="GitHub Trophies" />
-</p>
-
----
 
 ## ✍️ Random Dev Quote
 
@@ -137,15 +124,6 @@ I'm currently studying Computer Technology and continuously improving my program
 </p>
 
 ---
-
-## 🔝 Top Contributed Repositories
-
-<p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=nhnahid120726&limit=5&theme=solarized-light&combine_all_yearly_contributions=true" alt="Top Contributed Repositories" />
-</p>
-
----
-
 ## 💰 Support My Work
 
 <p align="center">
